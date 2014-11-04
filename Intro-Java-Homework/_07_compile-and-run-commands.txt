@@ -1,0 +1,3 @@
+C:\Users\Bot>cd Desktop
+C:\Users\Bot>Desktop>javac _06_SumTwoNumbers.java
+C:\Users\Bot>Desktop>java _06_SumTwoNumbers
